@@ -19,6 +19,6 @@ build: check
 	poetry build
 
 isort:
-	poetry run isort
+	poetry run isort sicp
 
 .PHONY: install test lint selfcheck check build
