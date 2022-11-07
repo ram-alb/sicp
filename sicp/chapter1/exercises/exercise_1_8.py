@@ -1,7 +1,7 @@
 """Solution for exerceise 1.8."""
 
-from sicp.chapter1.src.part_1_1_4 import square
 from sicp.chapter1.exercises.exercise_1_7 import is_good_enough
+from sicp.chapter1.src.part_1_1_4 import square
 
 
 def improve(guess, num):
